@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2">
+				<Option output="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2/fast">
+				<Option output="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/listes_dynamiques.c">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/listes_dynamiques.h">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/test.c">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo2/PRG22023-L2-listes-dynamiques/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

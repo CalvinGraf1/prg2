@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3">
+				<Option output="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3/fast">
+				<Option output="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="e:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/bateau.c">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/bateau.h">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/main.c">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/statistique.c">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/statistique.h">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/taxe.c">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/taxe.h">
+			<Option target="Lab3"/>
+		</Unit>
+		<Unit filename="S:/Annee1/PRG2/Labo/Labo3/PRG22023-L3-bateaux/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

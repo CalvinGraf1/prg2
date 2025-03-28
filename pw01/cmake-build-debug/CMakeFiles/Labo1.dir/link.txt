@@ -1,0 +1,3 @@
+"E:\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Labo1.dir/objects.a
+E:\mingw64\bin\ar.exe qc CMakeFiles\Labo1.dir/objects.a @CMakeFiles\Labo1.dir\objects1.rsp
+E:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Labo1.dir/objects.a -Wl,--no-whole-archive -o Labo1.exe -Wl,--out-implib,libLabo1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Labo1.dir\linklibs.rsp
